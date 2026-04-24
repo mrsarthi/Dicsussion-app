@@ -21,7 +21,7 @@ Go to the **[Releases Section](link-to-your-releases)** to download the latest b
 Since this is an Alpha release, your feedback is gold. 
 1. **Test the Connection:** Try starting a chat with a friend on a different Wi-Fi.
 2. **Report Bugs:** Open an "Issue" in this repo if the app crashes or lags.
-3. **Join the Conversation:** [Link to your Discord or Twitter]
+3. **Join the Conversation:** [[Discord](https://discordapp.com/users/sasta_chico)]
 
 ---
-*Developed by Parth. Built for Privacy.*
+*Developed for the people, by the people. Built for Privacy.*
