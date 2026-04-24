@@ -1,1 +1,27 @@
-# Dicsussion-app
+# Dicsussion: The Human-First Messenger
+**Glassmorphism Design | Zero-Knowledge Privacy | P2P Architecture**
+
+Dicsussion is a decentralized messaging engine built for the "Dead Internet" era. It uses the **ZekPoc Protocol** to verify your contacts are real humans without ever tracking your identity or storing your chats on a central server.
+
+---
+
+## Key Features
+* **100% P2P:** No central servers. Your data lives on your device.
+* **ZekPoc Shield:** Prove your humanity using Zero-Knowledge proofs.
+* **G.I.D.E.O.N. Integration:** An on-device assistant that manages your connections locally.
+* **E2EE:** End-to-end encryption via TweetNaCl.
+
+## Download (Alpha v1.0)
+Go to the **[Releases Section](link-to-your-releases)** to download the latest build for:
+* Windows (.exe)
+* Linux (.AppImage)
+* Android (.apk - Coming Soon)
+
+## How to Help
+Since this is an Alpha release, your feedback is gold. 
+1. **Test the Connection:** Try starting a chat with a friend on a different Wi-Fi.
+2. **Report Bugs:** Open an "Issue" in this repo if the app crashes or lags.
+3. **Join the Conversation:** [Link to your Discord or Twitter]
+
+---
+*Developed by Parth. Built for Privacy.*
