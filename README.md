@@ -11,7 +11,7 @@ Dicsussion is a decentralized messaging engine built for the "Dead Internet" era
 * **E2EE:** End-to-end encryption via TweetNaCl.
 
 ## Download (Alpha v1.0)
-Go to the **[Releases Section](link-to-your-releases)** to download the latest build for:
+Go to the **[Releases Section](https://github.com/mrsarthi/Dicsussion-app/releases/tag/Production)** to download the latest build for:
 * Windows (.exe)
 * Linux (.AppImage - coming soon)
 * Android (.apk) 
