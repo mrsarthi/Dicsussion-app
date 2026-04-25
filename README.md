@@ -15,7 +15,9 @@ Dicsussion is a decentralized messaging engine built for the "Dead Internet" era
 Go to the **[Releases Section](link-to-your-releases)** to download the latest build for:
 * Windows (.exe)
 * Linux (.AppImage)
-* Android (.apk - Coming Soon)
+* Android (.apk - Coming Soon) 
+## OR
+[[Visit the website](https://sparkling-kangaroo-495e65.netlify.app/)]
 
 ## How to Help
 Since this is an Alpha release, your feedback is gold. 
@@ -24,4 +26,4 @@ Since this is an Alpha release, your feedback is gold.
 3. **Join the Conversation:** [[Discord](https://discordapp.com/users/sasta_chico)]
 
 ---
-*Developed for the people, by the people. Built for Privacy.*
+*Developed for the people, by the people, for privacy.*
