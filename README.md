@@ -7,15 +7,14 @@ Dicsussion is a decentralized messaging engine built for the "Dead Internet" era
 
 ## Key Features
 * **100% P2P:** No central servers. Your data lives on your device.
-* **ZekPoc Shield:** Prove your humanity using Zero-Knowledge proofs.
-* **G.I.D.E.O.N. Integration:** An on-device assistant that manages your connections locally.
+* **ZekPoc Shield:** Prove your humanity using Zero-Knowledge proofs
 * **E2EE:** End-to-end encryption via TweetNaCl.
 
 ## Download (Alpha v1.0)
 Go to the **[Releases Section](link-to-your-releases)** to download the latest build for:
 * Windows (.exe)
-* Linux (.AppImage)
-* Android (.apk - Coming Soon) 
+* Linux (.AppImage - coming soon)
+* Android (.apk) 
 ## OR
 [[Visit the website](https://sparkling-kangaroo-495e65.netlify.app/)]
 
